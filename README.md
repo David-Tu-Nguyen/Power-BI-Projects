@@ -24,23 +24,41 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 # Executive Summary
 
-**Overview of Findings**
-In 2023, the company achieved $7 million in total revenue with a profit of $5.14 million, supported by a year-over-year revenue growth of 30.9% compared to the same period last year. Year-to-date revenue reached $7 million, up from $5.3 million in the prior year. **Toys** remained the leading product category, generating $2.3 million in revenue, with Lego Bricks as the top-selling product at $1.06 million.
-
-Performance by store location highlighted Downtown as the strongest contributor, with $4 million in revenue, significantly outpacing other locations. While monthly revenues showed fluctuations, the overall trend remained above the historical monthly average of approximately $773,564 between January and September 2023.
-
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here].
+## **Overview of Findings**
 ![](https://i.imgur.com/JiQlxVg.png)
+- In 2023, the company achieved $7 million in total revenue with a profit of $5.14 million, supported by a year-over-year revenue growth of 30.9% compared to the same period last year. Year-to-date revenue reached $7 million, up from $5.3 million in the prior year. 
+  
+- The Toys and Electronics categories were observed to be the most profitable product categories from January 2022 to September 2023, returning $1.08mil and $1.0mil in profits respectively. These account for more than 50% of Maven Toys’ total profit.
+  
+- Lego Bricks as the top-selling product at $1.06 million.
+  
+- Performance by store location highlighted Downtown as the strongest contributor, with $4 million in revenue, significantly outpacing other locations. While monthly revenues showed fluctuations, the overall trend remained above the historical monthly average of approximately $773,564 between January and September 2023.
+ 
+- Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here].
 
-**Sales Analysis**
-1. The Toy Company is demonstrating robust performance in 2023. This is evidenced by consistent monthly gains, notably 37.72% in January and 40.63% in March, directly contributing to enhanced profitability.
-2. Product category analysis reveals Art & Crafts as a hyper-growth segment (251.9% YOY), alongside strong performance in Sports & Outdoors, Games, and Toys. However, the Electronics category is a critical outlier with a 27.8% YOY decline. 
-3. Geographically, all store locations are contributing positively, with Airport stores leading at 37.5% YOY growth, underscoring broad market penetration and effective retail execution.
+
+## **Sales Analysis**
 ![](https://i.imgur.com/RKCQCxQ.png)
-4. **Games, Arts & Crafts, and Sports & Ourdoors** have seasonal trends peaking in December. **Arts & Crafts** have been on an **upward trend** since August 2022 while **Electronics** have been on a **steady decline** since January 2022 despite Electronics being the second most profitable product category.
+- The Toy Company is demonstrating robust performance in 2023. This is evidenced by consistent monthly gains, notably 37.72% in January and 40.63% in March, directly contributing to enhanced profitability.
+- **Seasonal trends:** The data shows a gradual increase in sales from January ($542,554) to April 2022 ($681,073). Afterwards, sales trends downwards until August ($489,423). Given that this timeframe coincides with the summer season, individuals are likely to be more engaged in outdoor activities which may explain the reason for decreased sales. After August, monthly sales trends upwards constantly from $585,844 in September to $661,304 in November. These three months of increases culminate in a massive spike to $877,203 in December, which is the highest sales amount recorded in any month. This end of year occurrence is likely due to increased demand for Christmas.
+- In 2023, there is a decrease in monthly sales for two months to $722,632 in February, followed by a significant increase in March to $883,516. For the next six months of 2023, the sales data follows a similar trend to that of 2022, remaining relatively constant from April to June and **then decreasing from July to December.**
+- Geographically, all store locations are contributing positively, with Airport stores leading at 37.5% YOY growth, underscoring broad market penetration and effective retail execution.
+
+![](https://i.imgur.com/cnFJC7d.png)
+- Product category analysis reveals Art & Crafts as a hyper-growth segment (251.9% YOY), alongside strong performance in Sports & Outdoors, Games, and Toys. However, despite Electronics being the second most profitable product category, the Electronics category is a critical outlier with a 27.8% YOY decline.
+
 ![](https://i.imgur.com/4NSvRIe.png)
 ![](https://i.imgur.com/7P1S59z.png)
-6. The data shows a gradual increase in sales from January ($542,554) to April 2017 ($681,072). Afterwards, sales trends downwards until August ($489,422). Given that this timeframe coincides with the summer season, individuals are likely to be more engaged in outdoor activities which may explain the reason for decreased sales.
+- **Games, Arts & Crafts, and Sports & Ourdoors** have seasonal trends peaking in December. **Arts & Crafts** have been on an **upward trend** since August 2022 while **Electronics** have been on a **steady decline** since January 2022.
 
-**Product Performance**
+## **Product Performance**
+  
+![](https://i.imgur.com/dtEvAaH.png)
+- **Regarding the Toys category,** the sales of **Lego Bricks** and **Action Figures** are responsible for the lion’s share of profit.
+![](https://i.imgur.com/56PTp7I.png)
 
+- Of the three products offered in the **Electronics category,** the profit of $834,944 returned by **Colorbuds** makes it both the most profitable product of its category and overall, in the company. However, this was a 53.1% decline from the previous year despite selling 29,000 units, suggesting pricing, demand, or competitive pressures may be impacting performance. **Gamer Headphones** achieved strong growth, with revenue of $243,316 — a 416.6% increase year-over-year — driven by 12,000 units sold and a YTD profit of $70,000.
+  
+## **Stores Analysis**
+
+  
