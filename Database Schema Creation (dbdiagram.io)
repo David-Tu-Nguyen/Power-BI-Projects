@@ -1,0 +1,48 @@
+Table store {
+  store_id integer [primary key]
+  name varchar
+  city varchar
+  location varchar
+  open_date date
+}
+
+Table product {
+  product_id integer [primary key]
+  name varchar
+  cost decimal
+  price decimal
+}
+
+Table date_dim {
+  date date [primary key]
+  year integer
+  month_num integer
+  month_short varchar
+  month varchar
+  day integer
+  weekday varchar
+  day_of_week integer
+  month_year varchar
+  year_month varchar
+}
+
+Table inventory {
+  store_id integer [not null]
+  product_id integer [not null]
+  stock_on_hand integer
+}
+
+Table sale {
+  sale_id integer [primary key]
+  sale_date date [not null]
+  store_id integer [not null]
+  product_id integer [not null]
+  units integer
+}
+
+/* Relationships */
+Ref: inventory.store_id > store.store_id         // many-to-one
+Ref: inventory.product_id > product.product_id   // many-to-one
+Ref: sale.sale_date > date_dim.date              // many-to-one
+Ref: sale.store_id > store.store_id              // many-to-one
+Ref: sale.product_id > product.product_id        // many-to-one
