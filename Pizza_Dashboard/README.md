@@ -50,7 +50,7 @@ Tables
 
 ## Insights
 **1. Sales Trends and Anomalies**
-
+![](https://i.imgur.com/CO8zwqs.png))
 a. Daily, Weekly, and Monthly Sales Trends (2015
 - **Daily trend:** Sales are highest on Fridays , closely followed by Saturdays. The lowest sales occur on Sundays 
 - **Weekly trend:** Weekdays account for 72.8% of total revenue, while weekends contribute 27.2%. This suggests a strong weekday preference, but with notable peaks at the start of the weekend
@@ -65,9 +65,21 @@ c. Sales by Day of the Week and Time of Day
 - **By Time:** Sales peak during lunch (12–1pm) and dinner (6–8pm). The lowest sales occur in the early morning and late night hour
 
 d. Potential Causes Behind Sales Spikes or Drops
-- **Spikes:** Peaks align with weekends, holidays, and lunchtime/dinnertime rushes. July's spike may be attributed to summer holidays and increased social gatherings.
-- **Drops:** Declines in October and November may be due to seasonal slowdowns or fewer promotional activities. Sundays and Mondays are consistently slow, possibly due to lower dining-out frequency at week’s start and end
+![](https://i.imgur.com/MNHjvsJ.png)
+
+- **Spikes:** July is the top-performing month for orders and revenue. July's spike may be attributed to summer holidays and increased social gatherings. Sales are strongest in mid-year (summer).
+The reason are longer daylight hours, summer holidays, school breaks, and increased social activities (gatherings, parties) during these warmer months lead to higher demand for food services.
+
+=> The business experiences clear seasonal peaks (March, May, July) and significant troughs (February, April, August-December), particularly pronounced in December.
+
+- **Potential Causes Behind Sales Drops:**
+  - There were significant monthly declines in February (-6.64% revenue), April (-2.36% revenue), August (-4.44% revenue), September (-5.90% revenue), October (-6.00% revenue), and particularly December (-8.09% revenue), potentially due to post-holiday fatigue in February, the return to routine after Easter or spring break in April, and colder weather or reduced outdoor activities in autumn and winter months, which can decrease dining-out frequency.
+  - Revenue dropped on Mondays, Wednesdays, and Sundays, likely because people are busy getting back to routine (Monday), there’s a mid-week slowdown (Wednesday), fewer social plans or outside factors affect Fridays, and Sundays may see more home meals or family time instead of dining out.
+  - The substantial drop on Fridays is particularly concerning given it is often a peak sales day for many businesses.
+  - Lack of Targeted Promotions: December, despite being a festive month, does not show a significant peak, suggesting an opportunity for targeted promotion. Declines in October and November may be due to fewer promotional activities.
+    
 **2. Product Performance Analysis**
+![](https://i.imgur.com/Xl2BDnb.png))
   
 a. Rank pizza categories by total quantity sold and revenue generated.
 
@@ -131,6 +143,7 @@ b. Identify the most and least popular ingredients for each pizza category based
 - Veggie: tomatoes
 
 **4. Order and Ingredient Correlations**
+![](https://i.imgur.com/AsIthHa.png)
 
 a. Revenue vs. Quantity Sold by Ingredient
 
