@@ -1,6 +1,6 @@
 # Pizza_Dashboard
 Analyzed data for a pizza manufacturing and distribution company to identify insights and suggest improvements for business performance.
-[Preview_Dashboard](https://github.com/David-Tu-Nguyen/Coffee_Shop_Sales_Analysis/blob/main/PowerBI_Dashboard/Dashboard_Snapshot.gif/). 
+[Preview_Dashboard](https://github.com/David-Tu-Nguyen/Power-BI-Projects/blob/main/Pizza_Dashboard/Pizza%20Dashboard%20fix%202.pdf)
 
 Insights and recommendations are provided on the following key areas:
 
@@ -28,7 +28,7 @@ Insights and recommendations are provided on the following key areas:
   - Analyze the frequency of single-item vs. multi-item orders.
   - Examine the average time interval in minutes between orders.
 
-An interactive PowerBI dashboard can be downloaded [here].
+An interactive PowerBI dashboard can be downloaded [here](https://github.com/David-Tu-Nguyen/Power-BI-Projects/blob/main/Pizza_Dashboard/Pizza%20Dashboard%20fix%202.pdf)
 
 Targeted SQL queries regarding various business questions can be found [here].
 
