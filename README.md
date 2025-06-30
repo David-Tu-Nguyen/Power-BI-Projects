@@ -9,7 +9,9 @@ The leadership team at Maven Toys requires a simple, interactive report that ena
 Insights and recommendations are provided on the following key areas:
 
   **- Sales Trends Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Profit, and Year Over Year (YoY).
+  
   **- Product Performance:** An analysis of Elist’s various products, understanding their impact on sales.
+  
   **- Stores Analysis:** An evaluation of sales by store.
 
 An interactive PowerBI dashboard can be downloaded [here].
