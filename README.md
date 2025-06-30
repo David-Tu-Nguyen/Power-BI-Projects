@@ -53,12 +53,48 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ## **Product Performance**
   
-![](https://i.imgur.com/dtEvAaH.png)
-- **Regarding the Toys category,** the sales of **Lego Bricks** and **Action Figures** are responsible for the lion’s share of profit.
-![](https://i.imgur.com/56PTp7I.png)
+![](https://i.imgur.com/kprfbLC.png)
+- **The Art & Crafts category** witnessed the most drastic revenue decline, plummeting by 251.90%. Key products like "Magic Sand" (-2482.23%) and "Barrel O' Slime" (-1048.60%) were primary contributors to this heavy loss, signaling an urgent need for restructuring or reconsideration.
 
-- Of the three products offered in the **Electronics category,** the profit of $834,944 returned by **Colorbuds** makes it both the most profitable product of its category and overall, in the company. However, this was a 53.1% decline from the previous year despite selling 29,000 units, suggesting pricing, demand, or competitive pressures may be impacting performance. **Gamer Headphones** achieved strong growth, with revenue of $243,316 — a 416.6% increase year-over-year — driven by 12,000 units sold and a YTD profit of $70,000.
+- Bright Spots and Potential Within **Toys and Electronics Categories**: Despite overall declines, **the Toys category** showcased strong growth from "Mr. Potatohead" (+5473.91%) and "Dino Egg" (+151.19%), with "Lego Bricks" also growing by 16.86% and being the highest YTD revenue generator in the category ($905,014).
+  
+- In **Electronics**, Gamer Headphones surged by 416.58%, highlighting promising niche segments for future investment. **Colorbuds** experienced the most significant decline, dropping sharply by 53.08% ($931,434 YTD compared to $437,048 LYTD). This product held the highest LYTD revenue within its category but faced a severe downturn.
+
+- **Barrel O' Slime** was the top-selling product by unit volume (61K YTD Units), yet it simultaneously suffered one of the most significant revenue drops (over 1000%), raising critical questions about its pricing strategy, production costs, or overall profitability.
+
   
 ## **Stores Analysis**
 
-  
+![](https://i.imgur.com/w8xQHik.png)
+- YTD Revenue Concentrated in Top Stores: Ciudad ($0.26M), Guadalajara ($0.21M), and Toluca 1 ($0.21M) lead in Year-To-Date revenue, indicating a concentration of sales contribution from these key outlets.
+
+- Positive YOY Revenue Growth Across Many Stores: Notably, several stores shown in the chart exhibit impressive Year-Over-Year revenue growth, with Culiacan 1 leading at 103.51% and Puebla 1 achieving 90.30%. Other stores like Monterrey, Zacatecas, and Oaxaca 1 also grew between 53.13% and 81.05%, reflecting strong individual store performance.
+
+- Severe Inventory Shortages Across Multiple Key Products: A wide range of "Top Revenue Products," including Lego Bricks (0.29-0.85 days of inventory), Magic Sand (0.45-0.68 days of inventory), Action Figure (0.47-0.77 days of inventory), and Dino Egg (0.55-0.85 days of inventory), face critically low stock levels (often below 1 day) across various stores.
+
+- "Colorbuds" Continues to Face Inventory Issues: The "Colorbuds" product, which already saw a 53.08% overall revenue decline, is reconfirmed to have critical inventory problems at stores like Saltillo 2, showing only 0.56 days of stock.
+
+## Deep-Dive Dashboard Exploration
+### Analysis of "Colorbuds" Sharp Decline (Based on Store Analysis):
+
+![](https://i.imgur.com/AGyeNJG.png)
+- Colorbuds experienced a significant YTD revenue drop of 53.08% compared to LYTD (from $931,434 LYTD to $437,048 YTD), despite being the highest LYTD revenue product within its category.
+
+- Data clearly indicates the main reason for the sharp decline is a severe and widespread inventory shortage at stores. All listed stores show "Days of Inventory" for Colorbuds below 1 day, meaning the product is consistently out of stock almost immediately.
+
+- Despite stockout issues, the "AVG Daily Units Sold" for "Colorbuds" remains relatively high in many stores (e.g., Guadalajara 3 at 21.43 units/day, Monterrey 2 at 17.30 units/day), suggesting strong market demand that cannot be converted into sales due to product unavailability.
+
+- Even in regions showing overall store revenue growth (e.g., Guadalajara's total YOY increase of 445.24%), specific branches like Guadalajara 3 still face critically low "Colorbuds" inventory (only 0.84 days of stock), indicating a systemic supply chain problem for this particular product.
+
+## Recommendation
+- **Resolve "Colorbuds" Inventory Crisis Immediately**: Prioritize restocking "Colorbuds" at all affected stores to recover lost revenue due to persistent stockouts. This product is in high demand but severely undersupplied.
+
+- **Upgrade Inventory Management System**: Invest in an advanced, automated inventory tracking and reordering system. This will ensure top-selling products like "Lego Bricks" and "Dino Egg" remain in stock, preventing missed sales opportunities.
+
+- **Restructure Arts & Crafts Category:** Analyze the significant revenue decline of "Magic Sand" and "Barrel O' Slime," considering pricing adjustments or discontinuation if unprofitable. Simultaneously, introduce new, high-potential products to capitalize on the category's growth potential.
+
+- **Develop Mid-Year Sales Strategies:** Implement specific marketing campaigns and promotions for the quieter summer months (July-September) to counter the observed historical sales decline during this period.
+
+- **Replicate Top Store Successes:** Study and apply effective strategies from high-performing stores like Downtown and Culiacan 1 across the entire retail network to boost overall performance.
+
+- **Optimize Holiday Season Preparedness:** Begin planning for the Q4 2025 holiday season early. Ensure ample stock and strong marketing campaigns to fully leverage the year's largest sales spike.
