@@ -56,18 +56,20 @@ I cleaned the data in Power Query and created the following;
 - Create a check that the Unit price should not be below $0
   
 ## Insights
-
+![](https://i.imgur.com/0waDEmC.png) 
 **Question 1**: The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
 
 - The average revenue was ~$130,500.
 - We had a significant increase in revenue from July, with the revenue peaking at $0.22 million in October.
 - The revenue trend demonstrates how seasonality affects retail store sales
 
+![](https://i.imgur.com/NmLTatH.png)
 **Question 2**: The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
 
 - There is no significant difference between revenue and quantity of goods sold in the top 10 countries, except for the United Kingdom, which shows a much higher purchasing power.
 - These countries have strong potential to generate more revenue and should be a key focus for marketing strategies.
 
+![](https://i.imgur.com/zy24k2o.png)
 **Question 3:** The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
 
 - The chart shows that there is no significant difference among the top 10 customers in terms of revenue generated.
