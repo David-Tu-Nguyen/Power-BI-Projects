@@ -1,7 +1,7 @@
 # Airline-Loyalty-Program-Performance-Dashboard
 The main objective of this project is to analyze loyalty program enrollments, cancellations and flights booked for Northern Lights Air (NLA) -a Canadian airline during the campaign from 1/2/2018 - 30/4/2018  and using Power BI.
 
-[Preview_Dashboard](https://github.com/David-Tu-Nguyen/Airline-Loyalty-Program-Performance-Dashboard/blob/main/Dashboard/Recording%202025-06-03%20000214.gif). 
+[Preview_Dashboard](https://github.com/David-Tu-Nguyen/Power-BI-Projects/blob/main/Airline-Loyalty-Program-Performance-Dashboard/Recording%202025-06-03%20000214.gif)
 
 ## Main objective
 - **Prepare data for modeling**:
