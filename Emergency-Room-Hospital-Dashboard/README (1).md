@@ -1,8 +1,7 @@
 # Emergency_Room_Hospital_Dashboard
 This dataset provides detailed patient data gathered from a hospital emergency room (ER) dashboard. It is a vital asset for healthcare analytics, aiming to explore patient demographics, treatment results, and the efficiency of ER operations.
 
-[Preview_Dashboard](https://github.com/David-Tu-Nguyen/Emergency_Room_Hospital_Dashboard/blob/main/PowerBI_Dashboard/Dashboard_Snapshot.gif/).
-
+[Preview_Dashboard](https://github.com/David-Tu-Nguyen/Power-BI-Projects/blob/main/Emergency-Room-Hospital-Dashboard/Hospital%20Emergency%20Room%20Analysis%20Dashboard.1%20(1).pdf)
 ## Main objective
 The questions we will answer through this analysis are the following :
 - How many patients visited the ER during a specific period?
