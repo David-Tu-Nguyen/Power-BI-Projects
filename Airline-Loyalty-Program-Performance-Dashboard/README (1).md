@@ -73,6 +73,9 @@ I cleaned the data in Power Query and created the following;
 - Created a YYYY-MM identifier in the Calendar table to enable consistent joins across related tables.
 - Merged the Year and Month columns in both the Customer Loyalty History and Customer Flight Activity tables to align with the unified date format.
 - Cleaned the dataset by converting columns to appropriate data types, removing duplicate records, and handling null values to ensure data accuracy and integrity.
+  
+## Data Modeling 
+![](https://i.imgur.com/2cbhCCZ.png)
 
 ## Insights
 1. **Is the promotion program a success?**
