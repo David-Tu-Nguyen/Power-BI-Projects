@@ -56,6 +56,9 @@ I cleaned the data in Power Query and created the following;
 - **Created measures**: Total Sales, Total Orders, Total quantity,...
 - **Created calculated columns**: Time of Day, Date Hierarchy, Linear Regression Prediction,...
 
+## Data Modeling 
+![](https://i.imgur.com/nUwtDkW.png)
+
 ## Insights
 **Revenue and transactions**
 - Monthly sales have consistently grown since the second month (February), reaching their peak in the sixth month (June) across all stores.
