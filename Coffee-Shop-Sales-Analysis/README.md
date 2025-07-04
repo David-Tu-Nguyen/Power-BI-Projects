@@ -1,7 +1,7 @@
 # Coffee_Shop_Sales_Analysis
 The data source can be found on kaggle website at [this link](https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis/data/). The main objective of this project is to evaluate the sales of three coffee shop locations using Power BI.
 
-[Preview_Dashboard](https://github.com/David-Tu-Nguyen/Coffee_Shop_Sales_Analysis/blob/main/PowerBI_Dashboard/Dashboard_Snapshot.gif/). 
+[Preview_Dashboard](https://github.com/David-Tu-Nguyen/Power-BI-Projects/blob/main/Coffee-Shop-Sales-Analysis/Coffee%20Sales%20Dashboard%20DB.pdf)
 
 ## Main objective
 
