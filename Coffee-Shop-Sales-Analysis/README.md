@@ -89,6 +89,15 @@ b) **Tea** sales make up 27.7% of the total combined revenue from the three stor
 c) **Bakery** items generated $82,316 in sales, contributing 12.3% to the total revenue across all stores, ranking as the third best-selling product category.
 
 ## Recommendations
-- Leverage data from peak hours and top-performing days to optimize staffing and inventory distribution.
-- Target underperforming locations for improvement while replicating successful strategies from high-performing stores.
-- Distribute marketing resources according to the revenue share of each product category.
+Based on the uncovered insights, the following recommendations have been provided :
+**- Focus on Best-Selling Products**
+Coffee Beans are your top seller. To boost sales even more, offer a seasonal “Buy One Get One Free” deal. Start the promotion a month before winter so customers stock up early, as many make coffee at home during colder months.
+
+**- Increase Sales in Quiet Months**
+January and February usually bring fewer sales. To attract more customers, try promotions like reward cards or giving customers a free drink on their birthday. These offers can encourage people to visit, sign up, and spend more during slow periods.
+
+**- Make Better Use of Slow Hours and Products**
+Sales are lowest around 8PM. To fix this, introduce “end-of-day” discounts to bring in more evening customers. Also, switch out slow-selling products with new or seasonal ones to keep things exciting and fresh.
+
+**- Listen to Customers Regularly**
+At the end of each season, send a short survey asking customers about the service, products, and their overall experience. Their feedback will help improve your offerings and grow the business over time.
