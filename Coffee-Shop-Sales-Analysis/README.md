@@ -48,7 +48,7 @@ Tables
 | Step  | Used Tools |
 | ------------- |:-------------:|
 |First Exploratory Data Analysis & Joining Tables     |     |
-|Data Cleaning, Advanced Exploratory Data Analysis & First Visualizations  |  |
+|Data Cleaning, Advanced Exploratory Data Analysis & First Visualizations  | Python |
 |Advanced Data Visualizations & Dashboard    |  Power BI     |
 
 ## Data Cleaning and Transformations
