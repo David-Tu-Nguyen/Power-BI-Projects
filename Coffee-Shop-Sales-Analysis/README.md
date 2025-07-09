@@ -90,6 +90,7 @@ c) **Bakery** items generated $82,316 in sales, contributing 12.3% to the total 
 
 ## Recommendations
 Based on the uncovered insights, the following recommendations have been provided :
+
 **- Focus on Best-Selling Products**
 Coffee Beans are your top seller. To boost sales even more, offer a seasonal “Buy One Get One Free” deal. Start the promotion a month before winter so customers stock up early, as many make coffee at home during colder months.
 
