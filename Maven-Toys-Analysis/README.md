@@ -36,7 +36,10 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 - Performance by store location highlighted Downtown as the strongest contributor, with $8.2 million in revenue, significantly outpacing other locations. While monthly revenues showed fluctuations, the overall trend remained above the historical monthly average of approximately $687,837 from January 2022 to September 2023..
 
 ## 3.2.Sales Trends Analysis
-- **Maven Toys's database increasing from July to December.**
+![](https://i.imgur.com/RKCQCxQ.png)
+- The Toy Company is demonstrating robust performance in 2023. This is evidenced by consistent monthly gains, notably 37.72% in January and 40.63% in March, directly contributing to enhanced profitability.
+- **Seasonal trends:** The data shows a gradual increase in sales from January ($542,554) to April 2022 ($681,073). Afterwards, sales trends downwards until August ($489,423). Given that this timeframe coincides with the summer season, individuals are likely to be more engaged in outdoor activities which may explain the reason for decreased sales. After August, monthly sales trends upwards constantly from $585,844 in September to $661,304 in November. These three months of increases culminate in a massive spike to $877,203 in December, which is the highest sales amount recorded in any month. This end of year occurrence is likely due to increased demand for Christmas.
+- In 2023, there is a decrease in monthly sales for two months to $722,632 in February, followed by a significant increase in March to $883,516. For the next six months of 2023, the sales data follows a similar trend to that of 2022, remaining relatively constant from April to June and **then increasing from July to December.**
 - Geographically, all store locations are contributing positively, with Airport stores leading at 37.5% YOY growth, underscoring broad market penetration and effective retail execution.
 
 ![](https://i.imgur.com/cnFJC7d.png)
