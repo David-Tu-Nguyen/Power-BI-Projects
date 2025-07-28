@@ -69,7 +69,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
   
 ## 3.4.**Stores Analysis**
 
-![](https://i.imgur.com/w8xQHik.png)
+![](https://i.imgur.com/G6XcVW2.png)
 - YTD Revenue Concentrated in Top Stores: Ciudad ($0.26M), Guadalajara ($0.21M), and Toluca 1 ($0.21M) lead in Year-To-Date revenue, indicating a concentration of sales contribution from these key outlets.
 
 - Positive YOY Revenue Growth Across Many Stores: Notably, several stores shown in the chart exhibit impressive Year-Over-Year revenue growth, with Culiacan 1 leading at 103.51% and Puebla 1 achieving 90.30%. Other stores like Monterrey, Zacatecas, and Oaxaca 1 also grew between 53.13% and 81.05%, reflecting strong individual store performance.
@@ -80,7 +80,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ## 4.Deep-Dive Dashboard Exploration
 ### 4.1.Root-Cause Analysis - "Colorbuds" Underperformance (Based on Product Performance)
-![](https://i.imgur.com/AGyeNJG.png)
+![](https://i.imgur.com/AGyeNJG.png) 
 - Colorbuds experienced a significant YTD revenue drop of 53.08% compared to LYTD (from $931,434 LYTD to $437,048 YTD), despite being the highest LYTD revenue product within its category.
 
 - Data clearly indicates the main reason for the sharp decline is a severe and widespread inventory shortage at stores. All listed stores show "Days of Inventory" for Colorbuds below 1 day, meaning the product is consistently out of stock almost immediately.
