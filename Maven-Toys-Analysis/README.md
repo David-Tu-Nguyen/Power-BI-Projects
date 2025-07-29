@@ -14,7 +14,7 @@ Insights and recommendations are provided on the following key areas:
   
   **- Stores Analysis:** An evaluation of sales by store.
 
-An interactive PowerBI dashboard can be downloaded [here](https://github.com/David-Tu-Nguyen/Power-BI-Projects/blob/main/Maven-Toys-Analysis/Toy%20Company%20Sales%20Dashboard.pdf).
+An interactive PowerBI dashboard can be downloaded [here](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzU2MGM1ZDMtZjZhNi00OWEwLWE4ZjEtZmNjMmIyYTczOTI2IiwidCI6IjE3MmIzNzFmLWQwYjAtNGVlZS05YWNmLWVjMjI3MWVhZTAzZCJ9)
 
 Targeted SQL queries regarding various business questions can be found [here](https://github.com/David-Tu-Nguyen/Power-BI-Projects/blob/main/Maven-Toys-Analysis/SQL%20Data%20Analysis.md).
 
