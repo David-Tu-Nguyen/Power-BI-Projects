@@ -2,7 +2,7 @@
 Sales analysis of the Maven Toys Chain Stores in Mexico, using SQL and Power BI.
 
 # 1.Project Background
-**Maven Toys** is a toy store chain with multiple store locations across Mexico. The company has transactional data available from January 2022 through September 2023, which includes detailed information about products and store locations.
+**Maven Toys** is a toy store chain with multiple store locations across Mexico. The company has transactional data available from January 2022 through September 2023, which includes detailed information about products and store locations. [Link data](https://www.mavenanalytics.io/data-playground/mexico-toy-sales?search=toy)
 
 The leadership team at Maven Toys requires a simple, interactive report that enables them to monitor key business metrics and observe high-level trends. This project involves connecting and profiling the data, creating a relational data model, adding calculated measures and fields, and building an interactive report to support data-driven decision-making.
 
