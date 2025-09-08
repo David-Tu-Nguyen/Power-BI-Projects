@@ -14,7 +14,7 @@ Insights and recommendations are provided on the following key areas:
   
   **- Provider Analisi Analysis:**  Analyze the performance and efficiency of healthcare providers.
 
-An interactive PowerBI dashboard can be downloaded [here](https://app.fabric.microsoft.com/view?r=eyJrIjoiNmU3MDEyYWItYTU5NS00YzE4LTg2ODQtM2JjYWUwNGM3MjMzIiwidCI6IjE3MmIzNzFmLWQwYjAtNGVlZS05YWNmLWVjMjI3MWVhZTAzZCJ9)
+_An interactive PowerBI dashboard can be downloaded_ [here](https://app.fabric.microsoft.com/view?r=eyJrIjoiNmU3MDEyYWItYTU5NS00YzE4LTg2ODQtM2JjYWUwNGM3MjMzIiwidCI6IjE3MmIzNzFmLWQwYjAtNGVlZS05YWNmLWVjMjI3MWVhZTAzZCJ9)
 
 # 2.Data Structure, Data Model & Initial Checks 
 **Healthcare Provider's database structure** as seen below consists of 8 tables.
