@@ -79,10 +79,12 @@ I cleaned the data in Power Query and created the following;
 
 ## Insights
 1. **Is the promotion program a success?**
+![](https://i.imgur.com/r48fLOu.png)
 The year-over-year trend from 2017 to 2018 shows an overall increase. One of the main drivers of this growth in 2018 was the promotional activity.
 During the 2018 promotion, there were approximately 9,000 additional enrollments compared to the previous year during the peak period. In terms of effectiveness, the promotion achieved its intended goals — it led to a noticeable increase in both flight bookings by loyalty members and new loyalty program sign-ups during the promotional period.
 
-2. **Loyalty Customer Demographics (during the 2018 promotion):**
+3. **Loyalty Customer Demographics (during the 2018 promotion):**
+![](https://i.imgur.com/twCQQfb.png)
 - Gender distribution is nearly equal, with 48.71% male and 50.14% female customers.
 - Married individuals account for the highest number of flight bookings, followed by single and divorced customers.
 - Customers with a Loyalty Card status of Star account for the highest number of flight bookings, followed by those with Nova and Auror cards.
@@ -90,6 +92,7 @@ During the 2018 promotion, there were approximately 9,000 additional enrollments
 - The majority of loyalty customers reside in major Canadian cities, primarily Toronto, Vancouver, and Montreal.
   
 3. **How did the campaign influence loyalty program enrollment and cancellation rates?**
+![](https://i.imgur.com/5VP1xiS.png)
 The campaign had a positive impact on loyalty program performance. During the 2018 promotion, enrollment rates increased significantly, indicating that the campaign successfully attracted new members. At the same time, cancellation rates remained low, suggesting strong member retention and satisfaction with the program.
 
 ## Recommendations
