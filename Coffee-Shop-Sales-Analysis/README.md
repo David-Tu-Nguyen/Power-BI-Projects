@@ -61,13 +61,13 @@ I cleaned the data in Power Query and created the following;
 
 ## Insights
 **Revenue and transactions**
-![](https://i.imgur.com/pzYUJV4.png)
+![](https://i.imgur.com/xZ6HRuu.png)
 - Monthly sales have consistently grown since the second month (February), reaching their peak in the sixth month (June) across all stores.
-- 72.06% of revenue is generated during weekdays for all stores
+- 72% of revenue is generated during weekdays for all stores
 - On weekdays, Hell's Kitchen experiences its highest sales on Friday and Tuesday, signifying these as the busiest days. Similarly, Astoria's busiest weekdays are Thursday and Monday. Lower Manhattan's busiest weekday is Monday.
 
 **Store hours**
-![](https://i.imgur.com/pzYUJV4.png)
+![](https://i.imgur.com/1ZY0Cyw.png)
 - Hell's Kitchen and Lower Manhattan operate from 6:00 to 20:00, while Astoria is open from 7:00 to 19:00.
 - Peak hours for Hell's Kitchen and Lower Manhattan are between 6:00 AM and 10:00 AM.
 - Astoria experiences its busiest period from 7:00 to 10:00, consistently throughout the week and on weekends.
@@ -75,7 +75,7 @@ I cleaned the data in Power Query and created the following;
 > Although Lower Manhattan generates the lowest total revenue, it records the highest sales during peak hours compared to the other locations. In contrast, Astoria achieves the highest sales during non-peak hours among all stores, despite having shorter operating hours.
 
 **Top 3 product and category across all 3 stores.**
-![](https://i.imgur.com/CrVN6Lr.png)
+![](https://i.imgur.com/1ZY0Cyw.png)
 a) **Coffee** generated $269,952 in revenue, accounting for 38.6% of total sales, making it the highest-performing product category across all branches.
 - Top coffee item at each location:
 * Astoria: Barista Espresso (~$27K)
@@ -104,3 +104,6 @@ Sales are lowest around 8PM. To fix this, introduce “end-of-day” discounts t
 
 **- Listen to Customers Regularly**
 At the end of each season, send a short survey asking customers about the service, products, and their overall experience. Their feedback will help improve your offerings and grow the business over time.
+
+![](https://i.imgur.com/BKpLgiT.png)
+![](https://i.imgur.com/B91sFuB.png)
